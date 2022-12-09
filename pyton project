@@ -24,6 +24,7 @@ age = [' who seemed to be in late 20s', ' who seemed very old and feeble']
 work = [' searching something.', ' digging a well on roadside.']
 
 # Selecting an item from each list and concatenating them.
+print("lauda bahanchod")
 
 print(random.choice(Sentence_starter) + random.choice(character) +
 
